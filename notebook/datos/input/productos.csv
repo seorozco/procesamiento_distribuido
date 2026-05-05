@@ -1,0 +1,21 @@
+id_producto,nombre,categoria,marca,precio_unitario,activo
+1,Laptop Pro 15,Electronica,TechBrand,85000,True
+2,Mouse Inalambrico,Accesorios,OfficeMax,1500,True
+3,Monitor 27 pulgadas,Electronica,TechBrand,55000,True
+4,Teclado Mecanico,Accesorios,OfficeMax,3200,True
+5,Auriculares BT,Electronica,SoundPlus,12000,True
+6,Webcam HD,Periferico,TechBrand,8500,True
+7,Disco SSD 1TB,Almacenamiento,StorePro,22000,True
+8,Memoria RAM 16GB,Componente,StorePro,9000,True
+9,Hub USB-C,Accesorios,OfficeMax,4500,True
+10,Tablet 10 pulgadas,Electronica,TechBrand,45000,True
+11,Impresora Laser,Periferico,PrintMaster,38000,True
+12,Router WiFi 6,Redes,NetGear,15000,True
+13,Switch 8 puertos,Redes,NetGear,7800,True
+14,Laptop Gamer,Electronica,GameTech,120000,True
+15,Microfono USB,Periferico,SoundPlus,6500,True
+16,Soporte Monitor,Accesorios,OfficeMax,3800,True
+17,Disco HDD 2TB,Almacenamiento,StorePro,11000,True
+18,Camara IP,Seguridad,SecureCam,18000,True
+19,UPS 1000VA,Energia,PowerBack,25000,True
+20,Mousepad XL,Accesorios,OfficeMax,1200,False

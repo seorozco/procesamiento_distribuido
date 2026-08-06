@@ -403,7 +403,14 @@ df_ayer = spark.read.format("delta") \
     .load("/mnt/datalake/ventas_delta/")
 ```
 
+
 ---
+
+###Referencia y documentacion
+https://learn.microsoft.com/es-mx/azure/databricks/pyspark/reference/classes/dataframewriter
+
+---
+
 
 #### Ejemplo 3 — Avanzado: UPSERT con MERGE INTO
 

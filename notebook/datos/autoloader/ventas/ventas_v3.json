@@ -1,0 +1,5 @@
+{"id": 11, "cliente_id": 9, "monto": 350.0, "fecha": "2024-01-25", "producto": "Auriculares", "descuento": 10.0, "metodo_pago": "tarjeta"}
+{"id": 12, "cliente_id": 10, "monto": 799.99, "fecha": "2024-01-26", "producto": "Tablet", "descuento": 0.0, "metodo_pago": "efectivo"}
+{"id": 13, "cliente_id": 3, "monto": 199.99, "fecha": "2024-01-27", "producto": "Webcam", "descuento": 5.0, "metodo_pago": "tarjeta"}
+{"id": 14, "cliente_id": 11, "monto": 450.0, "fecha": "2024-01-28", "producto": "Impresora", "descuento": 15.0, "metodo_pago": "transferencia"}
+{"id": 15, "cliente_id": 12, "monto": 89.5, "fecha": "2024-01-29", "producto": "USB Drive", "descuento": 0.0, "metodo_pago": "tarjeta"}

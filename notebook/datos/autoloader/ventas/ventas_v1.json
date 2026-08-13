@@ -1,0 +1,5 @@
+{"id": 1, "cliente_id": 1, "monto": 150.5, "fecha": "2024-01-15"}
+{"id": 2, "cliente_id": 2, "monto": 320.0, "fecha": "2024-01-16"}
+{"id": 3, "cliente_id": 3, "monto": 89.99, "fecha": "2024-01-17"}
+{"id": 4, "cliente_id": 1, "monto": 450.75, "fecha": "2024-01-18"}
+{"id": 5, "cliente_id": 4, "monto": 210.0, "fecha": "2024-01-19"}

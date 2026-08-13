@@ -1,0 +1,5 @@
+{"id": 6, "cliente_id": 5, "monto": 599.99, "fecha": "2024-01-20", "producto": "Laptop"}
+{"id": 7, "cliente_id": 6, "monto": 125.5, "fecha": "2024-01-21", "producto": "Teclado"}
+{"id": 8, "cliente_id": 7, "monto": 89.99, "fecha": "2024-01-22", "producto": "Mouse"}
+{"id": 9, "cliente_id": 2, "monto": 1200.0, "fecha": "2024-01-23", "producto": "Monitor"}
+{"id": 10, "cliente_id": 8, "monto": 45.0, "fecha": "2024-01-24", "producto": "Cable HDMI"}

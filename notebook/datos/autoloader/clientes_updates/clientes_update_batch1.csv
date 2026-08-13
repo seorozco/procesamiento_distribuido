@@ -1,0 +1,4 @@
+id,nombre,email,telefono,ciudad,ultima_compra
+1,Ana García ACTUALIZADO,ana.nueva@example.com,555-9999,Madrid,2024-02-15
+5,Laura Torres VIP,laura.vip@example.com,555-8888,Barcelona,2024-02-14
+20,Nuevo Cliente 1,nuevo1@example.com,555-0020,Sevilla,2024-02-13

@@ -1,0 +1,4 @@
+id,nombre,email,telefono,ciudad,ultima_compra
+2,Luis Martínez PREMIUM,luis.premium@example.com,555-7777,Valencia,2024-02-16
+21,Nuevo Cliente 2,nuevo2@example.com,555-0021,Málaga,2024-02-15
+22,Nuevo Cliente 3,nuevo3@example.com,555-0022,Bilbao,2024-02-16

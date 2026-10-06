@@ -1,0 +1,6 @@
+id,nombre,email,telefono,ciudad
+11,Isabel,cliente11@example.com,555-0011,Cordoba
+12,Miguel,cliente12@example.com,555-0012,Rosario
+13,Patricia,cliente13@example.com,555-0013,Mendoza
+14,Javier,cliente14@example.com,555-0014,Salta
+15,Elena,cliente15@example.com,555-0015,La Plata

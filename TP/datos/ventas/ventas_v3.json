@@ -1,0 +1,5 @@
+{"id": 11, "cliente_id": 11, "monto": 375.0, "fecha": "2025-03-10", "producto": "Laptop", "descuento": 0.0, "metodo_pago": "tarjeta"}
+{"id": 12, "cliente_id": 12, "monto": 400.0, "fecha": "2025-03-11", "producto": "Teclado", "descuento": 5.0, "metodo_pago": "efectivo"}
+{"id": 13, "cliente_id": 13, "monto": 425.0, "fecha": "2025-03-12", "producto": "Mouse", "descuento": 10.0, "metodo_pago": "tarjeta"}
+{"id": 14, "cliente_id": 14, "monto": -25.0, "fecha": "2025-03-13", "producto": "Monitor", "descuento": 15.0, "metodo_pago": "efectivo"}
+{"id": 15, "cliente_id": 15, "monto": null, "fecha": "2025-03-14", "producto": "Cable HDMI", "descuento": 20.0, "metodo_pago": "tarjeta"}
